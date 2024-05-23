@@ -26,6 +26,7 @@ function Footer({
         class="flex flex-row gap-1 items-center justify-center text-xs"
         target="_blank"
       >
+        abc
         {text && <p>{text}</p>}
         {image && (
           <Image
